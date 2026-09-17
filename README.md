@@ -1,2 +1,2 @@
-# Teste-Reposit-rio
+# Teste-Repositório
 Teste para  comandos e outras coisas...
